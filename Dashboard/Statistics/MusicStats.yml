@@ -1,0 +1,25 @@
+$/PROTECT.sh # This file needs to be protected from modification to stay legitimate
+# The top songs played during brushing your teeth
+songEntryTop1: "TBA"
+songEntryTop2: "TBA"
+songEntryTop3: "TBA"
+songEntryTop4: "TBA"
+songEntryTop5: "TBA"
+songEntryTop6: "TBA"
+songEntryTop7: "TBA"
+songEntryTop8: "TBA"
+songEntryTop9: "TBA"
+songEntryTop10: "TBA"
+# Total time playing the top songs while brushing your teeth
+songEntry_Time_Top1: "TBA"
+songEntry_Time_Top2: "TBA"
+songEntry_Time_Top3: "TBA"
+songEntry_Time_Top4: "TBA"
+songEntry_Time_Top5: "TBA"
+songEntry_Time_Top6: "TBA"
+songEntry_Time_Top7: "TBA"
+songEntry_Time_Top8: "TBA"
+songEntry_Time_Top9: "TBA"
+songEntry_Time_Top10: "TBA"
+# Future: support for more than 10 songs
+# End
