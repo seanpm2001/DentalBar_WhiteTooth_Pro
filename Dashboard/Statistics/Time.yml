@@ -1,0 +1,20 @@
+$/PROTECT.sh # This file needs to be protected from modification to stay legitimate
+# Counting the total time you brushed your teeth
+total_time_planck_seconds: 0
+total_time_yoctoseconds: 0
+total_time_zeptoseconds: 0
+total_time_attosseconds: 0
+total_time_femtoseconds: 0
+total_time_picoseconds: 0
+total_time_nanoseconds: 0
+total_time_microseconds: 0
+total_time_milliseconds: 0
+total_time_centiseconds: 0
+total_time_deciseconds: 0
+total_time_decaseconds: 0
+total_time_hectoseconds: 0
+total_time_kiloseconds: 0
+total_time_megaseconds: 0
+total_time_gigaseconds: 0 # It is highly unlikely you will brush this long in your life, do you really want to spend over a decade of your life just brushing your teeth
+total_time_teraseconds: 0 # It is highly unlikely you will brush this long in your life, can you really brush your teeth for over 1 million years?
+# I am going to stop here
